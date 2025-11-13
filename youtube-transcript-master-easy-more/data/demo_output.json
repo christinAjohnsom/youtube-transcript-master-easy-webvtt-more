@@ -1,0 +1,29 @@
+{
+  "url": "https://www.youtube.com/watch?v=b_nep8vMnkc",
+  "language": "en",
+  "title": "Example Video Title",
+  "duration": 123,
+  "videoLink": "https://www.youtube.com/watch?v=b_nep8vMnkc",
+  "uploadDate": "2023-10-27",
+  "text": "This is the extracted plain text transcript...",
+  "json": [
+    {
+      "text": "Segment 1 text",
+      "start": 0.5,
+      "dur": 3.2
+    },
+    {
+      "text": "Segment 2 text",
+      "start": 3.7,
+      "dur": 2.8
+    }
+  ],
+  "json3": null,
+  "srv1": null,
+  "srv2": null,
+  "srv3": null,
+  "ttml": null,
+  "vtt": null,
+  "error": null,
+  "details": null
+}
